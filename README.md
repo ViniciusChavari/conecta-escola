@@ -1,8 +1,3 @@
----
-layout: default
-title: Conecta Escola - Portfólio
----
-
 # 📱 Conecta Escola: Transformando a Comunicação na Educação Pública
 
 
