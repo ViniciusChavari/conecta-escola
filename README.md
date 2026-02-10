@@ -1,8 +1,6 @@
 # 📱 Conecta Escola: Transformando a Comunicação na Educação Pública
 
-
 > **Status do Projeto:** MVP e Validação com Stakeholders Públicos 🏛️
-
 
 ## 📝 Sobre o Projeto
 O **Conecta Escola** nasceu de uma dor real: a fragmentação da comunicação entre escolas públicas e responsáveis. Atualmente, o uso de ferramentas informais (WhatsApp) gera desinformação e falta de autonomia para pais e mães. 
@@ -26,6 +24,17 @@ Diferente de projetos puramente acadêmicos, o Conecta Escola foi levado ao camp
   <br>
   <em>Da validação estratégica à interface: Reunião na Câmara de Americana e o protótipo funcional do Conecta Escola.</em>
 </p>
+
+
+## 📊 Apresentação Executiva (Pitch Deck)
+Para a reunião na Câmara Municipal, desenvolvi uma apresentação estratégica focada em **viabilidade e impacto social**.
+
+👉 **[Clique aqui para visualizar a apresentação completa (PDF)](./Conecta-Escola.pdf)**
+
+### Destaques do Pitch:
+* **Contexto de Mercado:** Desafios da comunicação fragmentada.
+* **Diferenciais:** Experiência mobile-first e gestão de múltiplos vínculos.
+* **Impacto:** Redução de custos operacionais (impressão e distribuição) e fortalecimento da relação escola-família.
 
 ---
 
