@@ -1,6 +1,13 @@
+---
+layout: default
+title: Conecta Escola - Portfólio
+---
+
 # 📱 Conecta Escola: Transformando a Comunicação na Educação Pública
 
+
 > **Status do Projeto:** MVP e Validação com Stakeholders Públicos 🏛️
+
 
 ## 📝 Sobre o Projeto
 O **Conecta Escola** nasceu de uma dor real: a fragmentação da comunicação entre escolas públicas e responsáveis. Atualmente, o uso de ferramentas informais (WhatsApp) gera desinformação e falta de autonomia para pais e mães. 
